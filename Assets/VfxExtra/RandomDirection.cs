@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEditor.VFX;
-using UnityEngine.Experimental.VFX;
+using UnityEngine.VFX;
 
 namespace VfxExtra
 {
